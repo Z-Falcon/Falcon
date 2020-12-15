@@ -1,0 +1,15 @@
+.background{
+    background-color: blueviolet;
+}  
+p {
+    font-size: large;
+    text-align: center;
+    
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+}
+.section{
+    float:right
+}
